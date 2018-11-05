@@ -27,30 +27,6 @@
             font-family: Courier;
             font-size: 30px;
         }
-        h3
-        {
-            border: 10px;
-            border-color: rgb(255,255,255);
-            text-align:center;
-        }
-        h4
-        {
-            color:rgb(0, 0, 0);
-            font-family: Courier;
-            font-size: 20px;
-        }
-        h5
-        {
-            color:rgb(0, 0, 0);
-            font-family: Courier;
-            font-size: 20px;
-        }
-          table
-          {
-            color:rgb(0, 0, 0);
-            font-family: Courier;
-            font-size: 20px;
-          }
         </style>
         
         
@@ -65,9 +41,9 @@
         
         
         
-  </h1>
-<form name="login">
-Username<input type="text" name="Maroon5"/>
+       </h1>
+        <form name="login">
+              Username<input type="text" name="Maroon5"/>
 Password<input type="password" name="totalfan"/>
 <input type="button" onclick="check(this.form)" value="Login"/>
 <input type="reset" value="Cancel"/>
@@ -86,23 +62,6 @@ function check(form)/*function to check userid & password*/
   }
 }
 </script>      
-        
-        
-        
-        
-        <h3><img src="http://i2.wp.com/www.dailycal.org/assets/uploads/2017/08/maroon5_interscope-900x580.jpg"></h3>
-        <p>The amazing Pop band Maroon 5 continues to take the world by storm. 
-          They have published many songs that are all very good. Some incude Girls like you, Sugar, Moves like jagger, and many more. The band consists of:</p>
-        <h4>
-            <li>Adam Levine (Vocalist)</li>
-            <li>Mickey Madden (Bassist)</li>
-            <li>James Valentine (Guitarist)</li>
-            <li>Jesse Carmichael (Guitarist/Keyboard)</li>
-            <li>PJ Morton (Keyboard)</li>
-            <li>Sam Farrar (Multi-Instrumentalist)</li>   
-        </h4>
-        <h5>They have been a band from 1994 to the present day. The types of music tehy play include 
-          pop, funk rock, soul, and soft rock. They continue to publish songs that have both good lyrics and beat.</h5>
     </body>
 </html>
 
